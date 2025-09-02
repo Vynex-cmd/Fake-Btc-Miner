@@ -1,2 +1,2 @@
 # Fake-Btc-Miner
-Fake miner
+Download python an thats it
